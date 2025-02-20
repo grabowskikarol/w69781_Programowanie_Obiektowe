@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\zarzadzanieuzytkownikami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\zarzadzanieuzytkownikami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\zarzadzanierezerwacjami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\zarzadzanierezerwacjami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\zarzadzanieofertami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\zarzadzanieofertami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\uzytkownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\uzytkownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\platnosc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\platnosc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|c:\\users\\karol\\source\\repos\\biuro_podrozy\\biuro_podrozy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6BE17D1F-C117-44BD-A235-5C7B7D5C6AED}|Biuro_podrozy\\Biuro_podrozy.csproj|solutionrelative:biuro_podrozy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biuro_podrozy\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZarzadzanieOfertami.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieOfertami.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\ZarzadzanieOfertami.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieOfertami.cs",
+              "RelativeToolTip": "Biuro_podrozy\\ZarzadzanieOfertami.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv0wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:50:32.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rezerwacja.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Rezerwacja.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Rezerwacja.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Rezerwacja.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Rezerwacja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:49:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oferta.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Oferta.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Oferta.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Oferta.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Oferta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:49:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Platnosc.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Platnosc.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Platnosc.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Platnosc.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Platnosc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:50:09.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Program.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Program.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:45:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZarzadzanieRezerwacjami.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieRezerwacjami.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\ZarzadzanieRezerwacjami.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieRezerwacjami.cs",
+              "RelativeToolTip": "Biuro_podrozy\\ZarzadzanieRezerwacjami.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA+wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:51:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZarzadzanieUzytkownikami.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieUzytkownikami.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\ZarzadzanieUzytkownikami.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ZarzadzanieUzytkownikami.cs",
+              "RelativeToolTip": "Biuro_podrozy\\ZarzadzanieUzytkownikami.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:26:28.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Menu.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Menu.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Menu.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Menu.cs",
+              "ViewState": "AgIAACECAAAAAAAAAAAuwDkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:54:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uzytkownik.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Uzytkownik.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Uzytkownik.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Uzytkownik.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Uzytkownik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:01:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\ClassDiagram1.cd",
+              "RelativeToolTip": "Biuro_podrozy\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-19T22:38:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Class1.cs",
+              "RelativeDocumentMoniker": "Biuro_podrozy\\Class1.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Biuro_podrozy\\Biuro_podrozy\\Class1.cs",
+              "RelativeToolTip": "Biuro_podrozy\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:24:46.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

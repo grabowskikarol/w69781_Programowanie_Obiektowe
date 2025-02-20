@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Nazwa": "teneryfa",
+    "MiejsceDocelowe": "cos",
+    "Cena": 2,
+    "DostepneMiejsca": 3
+  },
+  {
+    "Id": 2,
+    "Nazwa": "Wakajce w Grecji",
+    "MiejsceDocelowe": "Vonitsa",
+    "Cena": 2400,
+    "DostepneMiejsca": 2
+  },
+  {
+    "Id": 3,
+    "Nazwa": "Litwa last minute",
+    "MiejsceDocelowe": "Wilno",
+    "Cena": 1200,
+    "DostepneMiejsca": 5
+  },
+  {
+    "Id": 4,
+    "Nazwa": "Wakacje w Grecji LAST MINUTE",
+    "MiejsceDocelowe": "Ateny",
+    "Cena": 2500,
+    "DostepneMiejsca": 10
+  }
+]

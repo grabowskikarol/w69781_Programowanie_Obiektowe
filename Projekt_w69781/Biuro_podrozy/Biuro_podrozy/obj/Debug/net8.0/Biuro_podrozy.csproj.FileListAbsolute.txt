@@ -1,0 +1,14 @@
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\bin\Debug\net8.0\Biuro_podrozy.exe
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\bin\Debug\net8.0\Biuro_podrozy.deps.json
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\bin\Debug\net8.0\Biuro_podrozy.runtimeconfig.json
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\bin\Debug\net8.0\Biuro_podrozy.dll
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\bin\Debug\net8.0\Biuro_podrozy.pdb
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.AssemblyInfo.cs
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.dll
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\refint\Biuro_podrozy.dll
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.pdb
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\Biuro_podrozy.genruntimeconfig.cache
+C:\Users\karol\source\repos\Biuro_podrozy\Biuro_podrozy\obj\Debug\net8.0\ref\Biuro_podrozy.dll
