@@ -1,0 +1,67 @@
+% **** Szablon pracy magisterskiej, licencjackiej lub inżynierskiej ****
+
+\documentclass[polish,12pt,twoside,a4paper]{report}
+
+\input{style.tex}
+
+%definicja przydatnych poleceń
+\newcommand{\wydzial}{KOLEGIUM INFORMATYKI STOSOWANEJ}
+\newcommand{\kierunek}{Kierunek: INFORMATYKA}
+\newcommand{\specjalnosc}{Specjalność: {Inżynieria Danych (ID)}}
+\newcommand{\autor}{Karol Grabowski}
+\newcommand{\album}{Nr albumu w69781}
+\newcommand{\temat}{System biura podróży}
+\newcommand{\promotor}{mgr inż. Ewa Żesławska}
+\newcommand{\typpracy}{Praca projektowa programowanie obiektowe C\#}
+\newcommand{\miasto}{Rzeszów}
+\newcommand{\rok}{2025}
+
+\begin{document}
+
+% *************** Włączenie definicji pierwszych stron ***************
+\input{front.tex}
+
+
+% *************** Część główna pracy ***************
+\input{wstep.tex}
+\addcontentsline{toc}{chapter}{Wstęp}
+\newpage
+\input{R1.tex}
+\newpage
+\input{R2.tex}
+\newpage
+\input{R3.tex}
+\newpage
+\input{R4.tex}
+\newpage
+\input{R5.tex}
+\newpage
+\input{R6.tex}
+\newpage
+
+% *************** Bibliografia ***************
+\begin{thebibliography}{6}
+\addcontentsline{toc}{chapter}{Bibliografia}
+%dodanie wpisu do spisu bibliograficznego
+\bibitem{Sommerville2015} Sommerville, I. (2015). \textit{Inżynieria oprogramowania}. Wydawnictwo Helion.
+
+\bibitem{Martin2009} Martin, R. C. (2009). \textit{Czysty kod. Podręcznik dobrego programisty}. Wydawnictwo Helion.
+
+\bibitem{Sutherland2014} Sutherland, J. (2014). \textit{Scrum. Zwinne zarządzanie projektami}. Wydawnictwo Helion.
+
+\bibitem{MSGuide} Microsoft. (n.d.). \textit{C\# Programming Guide}. Dostępne pod adresem: \url{https://docs.microsoft.com/pl-pl/dotnet/csharp/}.
+
+\bibitem{MSJson} Microsoft. (n.d.). \textit{System.Text.Json Namespace}. Dostępne pod adresem: \url{https://docs.microsoft.com/pl-pl/dotnet/api/system.text.json}.
+
+\bibitem{JSONorg} JSON.org. (n.d.). \textit{JSON: The JavaScript Object Notation}. Dostępne pod adresem: \url{https://www.json.org/json-en.html}.
+
+\bibitem{AgileManifesto} Agile Manifesto. (2001). \textit{Manifesto for Agile Software Development}. Dostępne pod adresem: \url{https://agilemanifesto.org}.
+
+\end{thebibliography}
+\newpage
+
+% *************** Zakończenie ***************
+\input{back.tex}
+
+\end{document}
+% *************** Koniec pliku szablon.tex ***************
